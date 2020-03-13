@@ -7,7 +7,7 @@ We've adapted it slightly to match the versions of libraries we are using in DS 
 We've also shortened the tutorial.  If you'd like to see the original tutorial, you can [view the original github page](https://github.com/maptime-ams/animated-borders-d3js) it was posted on.
 
 When you are finished, please publish to github pages, and post a link to your github pages HERE: 
-https://github.com/NEU-DS-4200-S20/in-class-programming-geo-amshaw39/settings
+https://neu-ds-4200-s20.github.io/in-class-programming-geo-amshaw39/
 
 Then, submit a link to your repository on Canvas under the in-class assignment page.
 
