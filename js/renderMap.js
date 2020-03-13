@@ -29,11 +29,5 @@ d3.json("data/states.json", function(error, topologies) {  // (4)
       .enter()
     .append("path")
       .attr("d", path)
-    .style("fill", function(d, i) { 
-      console.log("d is ", d)
-      var name = d.properties.STATENAM.replace(" Territory", ""); 
-      return colors[name]; 
-})
-    .append("svg:title")
-  .text(function(d) { return d.properties.STATENAM; });
 
+});
